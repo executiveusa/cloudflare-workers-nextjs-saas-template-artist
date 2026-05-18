@@ -1,5 +1,3 @@
-import "server-only";
-
 export interface MediaAsset {
   src: string;
   alt: string;
